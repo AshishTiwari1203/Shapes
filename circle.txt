@@ -1,3 +1,5 @@
 //Write the code or circle
 
 Adding the outline of the circle
+Area=pi*r*r
+perimeter=2*pi*r
